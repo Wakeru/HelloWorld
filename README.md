@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/Wakeru/HelloWorld.svg?branch=HW-03b_Mocking)](https://travis-ci.com/Wakeru/HelloWorld)
+[![Build Status](https://app.travis-ci.com/Wakeru/HelloWorld.svg?token=FqYxd4CAxooqqK9DzBCA&branch=HW-03b_Mocking)](https://app.travis-ci.com/Wakeru/HelloWorld)
